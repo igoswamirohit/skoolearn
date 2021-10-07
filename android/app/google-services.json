@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57054595049",
+    "project_id": "skoolearn-b109a",
+    "storage_bucket": "skoolearn-b109a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57054595049:android:ce2ee3a3a7f8d514712d78",
+        "android_client_info": {
+          "package_name": "com.skoolearn.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57054595049-090fa0lr9ugealgp9c6jkbks4hn3iodo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skoolearn.app",
+            "certificate_hash": "b2068feec9c31e87954f4434fb561644c24efc0c"
+          }
+        },
+        {
+          "client_id": "57054595049-iann8uleuus114clsk83q6k5uiagcum4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCh4Y22MXbZj2GDFPNWXDtzkG9_U_hsdQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57054595049-iann8uleuus114clsk83q6k5uiagcum4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
